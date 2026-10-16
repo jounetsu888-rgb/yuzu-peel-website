@@ -5,7 +5,7 @@ window.SITE_CONFIG = {
   // 正式な商品写真に変更したら false にしてください。
   isDemoImage: true,
   // YouTubeの動画ID（例: abc123）を設定すると動画エリアに表示します。
-  youtubeVideoId: '',
+  youtubeVideoId: 'cRTcup6VhAE',
   // 「愛シティ日南」の確認済み公式URLを設定してください。
   aiCityNichinanUrl: 'https://evasive-nichinan-future-port.base44.app/'
 };

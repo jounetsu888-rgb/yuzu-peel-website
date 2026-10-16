@@ -20,7 +20,7 @@ python3 -m http.server 8000 --bind 0.0.0.0
 - `heroImage`: 商品写真のパス。画像を `assets/` に置いて指定します。
 - `heroImageAlt`: 写真の説明。
 - `isDemoImage`: 正式な商品写真に変更したら `false` にします。
-- `youtubeVideoId`: 公開済みYouTube動画の11文字のID。空欄なら「準備中」を表示します。
+- `youtubeVideoId`: 公開済みYouTube動画の11文字のID。現在は `cRTcup6VhAE` を設定済みです。空欄なら「準備中」を表示します。
 - `aiCityNichinanUrl`: 確認済みの「愛シティ日南」公式HTTPS URL。指定URL `https://evasive-nichinan-future-port.base44.app/` を設定済みです。新しいタブで開きます。
 
 商品説明・仮価格は `index.html` で編集できます。パッケージはCSSで描いた仮デザインです。実際の写真にする場合は `.package-stage` 内の仮パッケージを画像に置き換えてください。
